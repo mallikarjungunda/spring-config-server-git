@@ -1,0 +1,5 @@
+service:
+    name: test
+    url: https://test.com
+    username: test
+    password: test2
